@@ -1,0 +1,33 @@
+headers = {
+    'authority': 'context.reverso.net',
+    'cache-control': 'max-age=0',
+    'upgrade-insecure-requests': '1',
+    'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36',
+    'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+    'sec-gpc': '1',
+    'sec-fetch-site': 'same-site',
+    'sec-fetch-mode': 'navigate',
+    'sec-fetch-user': '?1',
+    'sec-fetch-dest': 'document',
+    'referer': 'https://www.reverso.net/',
+    'accept-language': 'en-US,en;q=0.9',
+    'cookie': 'CTXTNODEID=bstweb12; experiment_context_Et4k3pePD=0; reverso.net.apps-promo=4; reverso.net.apps-promo-display=1; experiment_context_4rUk3pePA=1; _pbjs_userid_consent_data=6683316680106290; _ramjsShID=87b71bb4-0817-49d6-95d2-3d3f4e96c4cd; context.lastpair=en-pt; floatingpopup_counter=0; history_entry=levantar%20qualquer%20um]#[mischievous; history_pair=pt-en]#[en-pt; reverso.net.dir=eng-fra; reverso.net.LanguageInterface=pt; didomi_token=eyJ1c2VyX2lkIjoiMTc0MzY4NjMtYjMzNy02NTRjLThkZjItZTk4NzZlOGZkM2Y2IiwiY3JlYXRlZCI6IjIwMjItMDMtMDlUMTk6MjA6NTUuMjQ0WiIsInVwZGF0ZWQiOiIyMDIyLTAzLTA5VDE5OjIwOjU1LjI0NFoiLCJ2ZXJzaW9uIjpudWxsfQ==; JSESSIONID=TQnYO-gYID0txylu4x5zKetB.bst-web12',
+}
+
+cookies = {
+    "CTXTNODEID": "bstweb12",
+    "experiment_context_Et4k3pePD": "0",
+    "reverso.net.apps-promo": "4",
+    "reverso.net.apps-promo-display": "1",
+    "experiment_context_4rUk3pePA": "1",
+    "_pbjs_userid_consent_data": "6683316680106290",
+    "_ramjsShID": "87b71bb4-0817-49d6-95d2-3d3f4e96c4cd",
+    "context.lastpair": "en-pt",
+    "floatingpopup_counter": "0",
+    "history_entry": "levantar%20qualquer%20um]#[mischievous",
+    "history_pair": "pt-en]#[en-pt",
+    "reverso.net.dir": "eng-fra",
+    "reverso.net.LanguageInterface": "pt",
+    "didomi_token": "eyJ1c2VyX2lkIjoiMTc0MzY4NjMtYjMzNy02NTRjLThkZjItZTk4NzZlOGZkM2Y2IiwiY3JlYXRlZCI6IjIwMjItMDMtMDlUMTk6MjA6NTUuMjQ0WiIsInVwZGF0ZWQiOiIyMDIyLTAzLTA5VDE5OjIwOjU1LjI0NFoiLCJ2ZXJzaW9uIjpudWxsfQ==",
+    "JSESSIONID": "TQnYO-gYID0txylu4x5zKetB.bst-web12",
+}
