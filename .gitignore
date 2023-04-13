@@ -1,4 +1,7 @@
 accessApiCollinsDictionary.ipynb
 /headersToAccessSite/headers.py
 *.mp3
+*.webp
 *.apkg
+*.json
+*.jpg
